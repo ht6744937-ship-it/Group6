@@ -14,6 +14,6 @@ public class Group6 {
         }
 
         System.out.println(isPrime ? "La so nguyen to" : "Khong phai");
-        System.out.println("Xong.");
+//        System.out.println("Xong.");
     }
 }
