@@ -12,7 +12,8 @@ public class Group6 {
                 break;
             }
         }
-
+        
         System.out.println(isPrime ? "La so nguyen to" : "Khong phai");
+        //Khong can sua
     }
 }
